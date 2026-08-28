@@ -485,3 +485,21 @@ a.tosu {
         max-width: 100%;
     }
 }
+
+.justified-text {
+    p,
+    li {
+        text-align: justify;
+    }
+
+    .image--cover-container p {
+        text-align: center;
+    }
+
+    .responsive-table {
+        p,
+        li {
+            text-align: left;
+        }
+    }
+}
