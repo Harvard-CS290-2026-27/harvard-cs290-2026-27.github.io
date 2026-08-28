@@ -477,6 +477,16 @@ a.tosu {
     text-align: center;
 }
 
+.schedule-table {
+    font-size: 0.8em;
+
+    // Stacked rows have the full width to themselves, so the type no longer
+    // needs to be shrunk to fit four columns.
+    @include media-query($on-palm) {
+        font-size: 0.95em;
+    }
+}
+
 .calendar-embed {
     text-align: center;
 
@@ -497,6 +507,15 @@ a.tosu {
     }
 
     .responsive-table {
+        p,
+        li {
+            text-align: left;
+        }
+    }
+
+    // Narrow measures cannot absorb justification: too few words per line
+    // leaves large gaps ("rivers"). Fall back to ragged-right on phones.
+    @include media-query($on-palm) {
         p,
         li {
             text-align: left;
