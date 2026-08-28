@@ -1,9 +1,10 @@
 ---
+published: false
 type: raw_event
 date: 2026-03-27T09:45:00
 name: Class
 description: 'The Qual + Faculty Panel'
-hide_from_announcments: true
+hide_from_announcements: true
 ---
 **Pre-class Work:** (instructions/submission on Canvas)
 * TBD

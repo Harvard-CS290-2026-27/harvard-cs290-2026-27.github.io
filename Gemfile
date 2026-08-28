@@ -28,3 +28,9 @@ end
 # Performance-booster for watching directories on Windows
 gem "wdm", "~> 0.1.1", :install_if => Gem.win_platform?
 
+# Ruby 3.4 removed these from the default gems, but Jekyll's dependency tree
+# still expects them. webrick is what `jekyll serve` uses.
+gem "webrick", "~> 1.8"
+gem "bigdecimal"
+gem "csv"
+gem "base64"

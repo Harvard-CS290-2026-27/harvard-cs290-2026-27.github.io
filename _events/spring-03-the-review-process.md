@@ -1,9 +1,10 @@
 ---
+published: false
 type: raw_event
 date: 2026-02-13T09:45:00
 name: Class
 description: 'The Paper Review Process / How to Critique a Paper'
-hide_from_announcments: true
+hide_from_announcements: true
 ---
 
 **Pre-class Work:** (instructions/submission on Canvas)

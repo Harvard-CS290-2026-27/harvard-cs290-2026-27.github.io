@@ -1,13 +1,13 @@
 # Site settings
 course_title: "CS2901/2: Seminar on Effective Research Practices & Academic Culture"
 course_name: "CS2901/2: Seminar on Effective Research Practices & Academic Culture"
-course_semester: "Fall 2025 - Spring 2026"
+course_semester: "Fall 2026 - Spring 2027"
 
-baseurl: "/" # the subpath of your site, e.g. /blog/
-url: "https://harvard-cs290-2025-26.github.io" # the base hostname & protocol for your site
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "https://harvard-cs290-2026-27.github.io" # the base hostname & protocol for your site
 
 schoolname: "Harvard University"
-schoolurl: 
+schoolurl:
 
 address: |
     John A. Paulson School of Engineering and Applied Sciences

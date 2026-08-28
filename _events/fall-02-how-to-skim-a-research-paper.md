@@ -1,9 +1,10 @@
 ---
+published: false
 type: raw_event
 date: 2025-09-12T09:45:00
 name: Class
 description: 'How to skim a research paper'
-hide_from_announcments: true
+hide_from_announcements: true
 ---
 
 **Pre-class Work:** (instructions/submission on Canvas)

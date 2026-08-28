@@ -1,9 +1,10 @@
 ---
+published: false
 type: raw_event
 date: 2026-02-06T09:45:00
 name: Class
 description: 'Communication with General Audiences, pt. 2'
-hide_from_announcments: true
+hide_from_announcements: true
 ---
 
 **Pre-class Work:** (instructions/submission on Canvas)

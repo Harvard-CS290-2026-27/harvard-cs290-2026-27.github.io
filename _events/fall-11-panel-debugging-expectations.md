@@ -1,9 +1,10 @@
 ---
+published: false
 type: raw_event
 date: 2025-11-14T09:45:00
 name: Class
 description: 'Student-only Panel: Debugging Unhealthy Self-expectations'
-hide_from_announcments: true
+hide_from_announcements: true
 ---
 
 **Pre-class Work:** (instructions/submission on Canvas)

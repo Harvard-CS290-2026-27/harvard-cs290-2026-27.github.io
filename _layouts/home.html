@@ -7,11 +7,11 @@ layout: default
     <!--
     <h1>{{ site.course_name }}</h1>
     <span style="font-size: 20px;color: #0006;">{{ site.course_semester }} </span>
-    -->    
-    
+    -->
+
     {% include announcements.html %}
     <br />
-    
+
     <h1>Course Overview</h1>
     {{ content }}
 
@@ -28,15 +28,15 @@ layout: default
                 <h2>Instructors</h2>
                 {% for ins in site.data.people.instructors %}
                 <div class="image--cover-container">
-                    <img src="{{ins.profile_pic | prepend: site.baseurl }}" class="image--cover" alt="Photo of {{ ins.name }}">
+                    <img src="{{ins.profile_pic | prepend: site.baseurl }}" class="image--cover" alt="Photo of {{ ins.name }}"{% if ins.photo_position %} style="object-position: {{ ins.photo_position }};"{% endif %}>
                     {% if ins.webpage %}
                     <p style="margin-bottom: 0px;"><a href="{{ ins.webpage }}" target="_blank">{{ins.name}}</a></p>
                     {% else %}
-                    <p style="margin-bottom: 0px;">{{ins.name}}</p>                    
-                    {% endif %}                    
+                    <p style="margin-bottom: 0px;">{{ins.name}}</p>
+                    {% endif %}
                     {% if ins.term %}
                     <p style="margin-bottom: 0px;">[{{ ins.term }} term]</p>
-                    {% endif %}                    
+                    {% endif %}
                     {% if ins.pronouns %}
                     <p>({{ins.pronouns}})</p>
                     {% endif %}
@@ -45,12 +45,12 @@ layout: default
             </div>
         </div>
 
-        
+
     </div>
-    
+
     <br style="clear:both">
     <br/>
-    
+
     {% if site.data.previous_offering and site.data.previous_offering.offerings and site.data.previous_offering.offerings.size > 0 %}
     <h2>Other Course Offerings</h2>
     <ul class="previous-offerings">
@@ -59,7 +59,7 @@ layout: default
     {% endfor %}
     </ul>
     {% endif %}
-    
+
     <br/>
     <div>
         <h2>Acknowledgments</h2>
@@ -74,17 +74,17 @@ layout: default
                 <span><a href="{{ person.webpage }}" target="_blank">{{person.name}}</a>{% unless forloop.last %}, {% endunless %}</span>
                 {% else %}
                 <span>{{person.name}}{% unless forloop.last %}, {% endunless %}</span>
-                {% endif %}                
+                {% endif %}
             {% endfor %}
-        </p>        
+        </p>
         <p>
-            This course draws on: 
+            This course draws on:
             {% for course in site.data.people.draws %}
                 {% if course.webpage %}
                 <span><a href="{{ course.webpage }}" target="_blank">{{course.name}}</a>{% unless forloop.last %}, {% endunless %}</span>
                 {% else %}
                 <span>{{course.name}}{% unless forloop.last %}, {% endunless %}</span>
-                {% endif %}                
+                {% endif %}
             {% endfor %}
         </p>
     </div>

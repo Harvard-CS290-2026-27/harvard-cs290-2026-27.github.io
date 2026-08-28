@@ -3,10 +3,10 @@ layout: home
 ---
 
 This is a reading and discussion-based seminar designed for entering Computer Science Ph.D. students. This course prepares students to manage the difficult and often undiscussed challenges of Ph.D. programs through sessions on:
-1. Research skill building (e.g. paper reading, communication) 
+1. Research skill building (e.g. paper reading, communication)
 2. Soft skill building (e.g. managing advising relationships, supporting your peers)
 3. Academic culture (e.g. mental health in academia, power dynamics in scientific communities)
-4. Research and professional-oriented discussions 
+4. Research and professional-oriented discussions
 
 *Please come prepared having done the readings/assignments listed on the [schedule]({{ site.baseurl }}/schedule/) prior to class.*
 
@@ -15,7 +15,7 @@ This is a reading and discussion-based seminar designed for entering Computer Sc
 ## Course Credit
 
 This is a full-year, 4-unit course, meeting once a week in each of the fall and the spring. Students must complete both terms of this course (parts A and B) within the same academic year to receive credit.
-    
+
 This course is required for new (G1) Computer Science Ph.D. students. It satisfies one of the CS 200-level electives (one of the 10 required classes for the Computer Science Ph.D. degree). SEAS G1 Ph.D. students in related fields may petition to enroll with instructor permission.
 
 <br/>
@@ -32,16 +32,16 @@ This course is required for new (G1) Computer Science Ph.D. students. It satisfi
 
 **Laptops/Phones:** Laptop/tablet/phone use is acceptable when directly tied to classroom activities. We will occasionally have in-class activities that require access to a device. When not engaging in these activities (or active note-taking), please do not use your devices. If you need to quickly fact-check something, you may do so briefly, and then we ask you to stow your device. Some class periods such as student panels will be designated "no devices," even for note-taking.
 
-**Office Hours:** 
-* Alex: Wednesdays 11:30am-12:30pm @ SEC 3.416
-* Yiling: Wednesdays 12:45pm-1:30pm @ SEC 5.306
-* Sonja: Fridays 11:45am-12:45pm @ SEC 2.118 (or until 75 min after class ends)
+**Office Hours:**
+* Thomas: TBD
+* Hammad: TBD
 
+We'll use this [calendar](https://calendar.google.com/calendar/embed?src=c_68885743561380dbc5f80c567670e5e5b2657edd9bc6adeb0780b5ad08c176f1%40group.calendar.google.com&ctz=America%2FNew_York){:target="_blank"}{:rel="noopener noreferrer"} (below) for exceptions.
+In addition to the regularly held office hours, additional office hours with any member of the course staff can be made by appointment.
 
-We'll use this [calendar](https://calendar.google.com/calendar/embed?src=c_fafaf977ce9c7232446969096f2432e147f253f202cb04ffa65deab089fcf991%40group.calendar.google.com&ctz=America%2FNew_York){:target="_blank"}{:rel="noopener noreferrer"} (below) for exceptions.
-In addition to the regularly held office hours, additional office hours with any member of the course staff can be made by appointment. 
-
-<iframe src="https://calendar.google.com/calendar/embed?src=c_fafaf977ce9c7232446969096f2432e147f253f202cb04ffa65deab089fcf991%40group.calendar.google.com&ctz=America%2FNew_York" style="border: 0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
+<div class="calendar-embed">
+<iframe src="https://calendar.google.com/calendar/embed?src=c_68885743561380dbc5f80c567670e5e5b2657edd9bc6adeb0780b5ad08c176f1%40group.calendar.google.com&ctz=America%2FNew_York" width="800" height="600" frameborder="0" scrolling="no"></iframe>
+</div>
 <br/>
 
 

@@ -1,9 +1,10 @@
 ---
+published: false
 type: raw_event
 date: 2025-10-10T09:45:00
 name: Class
 description: 'Faculty Panel'
-hide_from_announcments: true
+hide_from_announcements: true
 ---
 
 **Pre-class Work:** (instructions/submission on Canvas)

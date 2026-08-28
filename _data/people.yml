@@ -1,29 +1,25 @@
 instructors:
-  - name: Sonja Johnson-Yu
-    profile_pic: /_images/pp/sonja.jpg
-    webpage: https://sjohnsonyu.github.io/
-  - name: Alex Oesterling
-    profile_pic: /_images/pp/film_ocean_alex.jpeg
-    webpage: https://alexoesterling.com/
-    pronouns: 
+  - name: Thomas Kaminsky
+    profile_pic: /_images/pp/thomas.png
+    photo_position: center top
+    webpage: https://tkaminsky.github.io/
+  - name: Hammad Izhar
+    profile_pic: /_images/pp/hammad.png
+    photo_position: center top
+    webpage: https://react.seas.harvard.edu/directory/hammad-izhar/?cp-dir-id=584
+    pronouns: he/him
   - name: John Girash
     profile_pic: /_images/pp/jgirash.png
     webpage: https://scholar.harvard.edu/girash/home
     pronouns: he/him
-    term: fall
-  - name: Boaz Barak
-    profile_pic: /_images/pp/boaz.jpg
-    webpage: https://www.boazbarak.org/
-    # pronouns: he/him
-    term: fall
-  - name: Yiling Chen
-    profile_pic: /_images/pp/yiling_chen.jpeg
-    webpage: https://yiling.seas.harvard.edu/
-    term: spring
+  - name: Madhu Sudan
+    profile_pic: /_images/pp/madhu.png
+    webpage: https://madhu.seas.harvard.edu/
+    pronouns: he/him
   # - name: Martin Wattenberg
   #   profile_pic: /_images/pp/martin-wattenberg.png
   #   webpage: https://www.bewitched.com/about.html
-  #   pronouns: he/him   
+  #   pronouns: he/him
   #   term: spring
 
 feedback:
@@ -42,7 +38,7 @@ feedback:
   - name: Margo Seltzer
     webpage: https://www.seltzer.com/margo/
   - name: Sam Hsia
-    webpage: 
+    webpage:
   - name: Udit Gupta
     webpage: https://ugupta.com/
   - name: Weiwei Pan

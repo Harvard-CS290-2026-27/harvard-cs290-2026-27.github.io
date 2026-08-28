@@ -1,9 +1,10 @@
 ---
+published: false
 type: raw_event
 date: 2025-11-21T09:45:00
 name: Class
 description: 'A Systemic Perspective on Academic Culture: Feedback Cycles in Academic Culture'
-hide_from_announcments: true
+hide_from_announcements: true
 ---
 
 **Pre-class Work:** (instructions/submission on Canvas) 

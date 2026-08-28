@@ -1,9 +1,10 @@
 ---
+published: false
 type: raw_event
 date: 2026-04-24T09:45:00
 name: Class
 description: 'How to Craft a Research Agenda + Conclusion'
-hide_from_announcments: true
+hide_from_announcements: true
 ---
 
 **Pre-class Work:** (instructions/submission on Canvas)

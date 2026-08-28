@@ -1,9 +1,10 @@
 ---
+published: false
 type: raw_event
 date: 2026-02-20T09:45:00
 name: Class
 description: 'Research Integrity & Ethics in the AI Age'
-hide_from_announcments: true
+hide_from_announcements: true
 ---
 
 **Pre-class Work:** (instructions/submission on Canvas)

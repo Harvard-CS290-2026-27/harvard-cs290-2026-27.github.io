@@ -1,9 +1,10 @@
 ---
+published: false
 type: raw_event
 date: 2026-03-06T09:45:00
 name: Class
 description: 'Statistics Best Practices + Implications of Generative AI in Research'
-hide_from_announcments: true
+hide_from_announcements: true
 ---
 
 **Pre-class Work:** (instructions/submission on Canvas)
