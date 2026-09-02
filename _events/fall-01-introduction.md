@@ -9,7 +9,7 @@ hide_from_announcements: true
 
 **Pre-class Work:**
 * Create a [slide](https://docs.google.com/presentation/d/1NHNBwEsuGdym8nDy5jhVL3TPmB29fHMr2-J4E67kZv4/edit?usp=sharing){:target="_blank"}{:rel="noopener noreferrer"} to introduce yourself, answer [survey](https://forms.gle/y5QNQuMJPePdJEZx7)
-* Read and answer questions about:
+* Read the following article and short webpage:
   * [The Fear of Publicly Not Knowing](https://medium.com/bucknell-hci/the-fear-of-publicly-not-knowing-239e1b7a39f3){:target="_blank"}{:rel="noopener noreferrer"}
   * [What you should know about us (the course staff)]({{ site.baseurl }}/what-you-should-know-about-us){:target="_blank"}{:rel="noopener noreferrer"}
 
