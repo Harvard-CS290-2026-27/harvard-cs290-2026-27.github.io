@@ -5,4 +5,4 @@ date: 2024-08-25T10:00:00+3:30
 <!-- to access [Canvas](https://canvas.harvard.edu/courses/136071){:target="_blank"}{:rel="noopener noreferrer"},  -->
 <!-- where you can join the course's Slack channel and submit homework. -->
 <!-- You should be enrolled in CS2902 to have access to this semester's [Canvas](https://canvas.harvard.edu/courses/143199){:target="_blank"}{:rel="noopener noreferrer"}. We'll use the same Slack channel as last semester for announcements. -->
-You should be enrolled in CS2901 to have access to this semester's [Canvas](https://canvas.harvard.edu/courses/154136){:target="_blank"}{:rel="noopener noreferrer"}, where you can join the course's Slack channel and submit homework.
+You should be enrolled in CS2901 to have access to this semester's [Canvas](https://canvas.harvard.edu/courses/169576){:target="_blank"}{:rel="noopener noreferrer"}, where you can join the course's Slack channel and submit homework.
