@@ -3,12 +3,13 @@ layout: home
 ---
 
 This is a reading and discussion-based seminar designed for entering Computer Science Ph.D. students. This course prepares students to manage the difficult and often undiscussed challenges of Ph.D. programs through sessions on:
+
 1. Research skill building (e.g. paper reading, communication)
 2. Soft skill building (e.g. managing advising relationships, supporting your peers)
 3. Academic culture (e.g. mental health in academia, power dynamics in scientific communities)
 4. Research and professional-oriented discussions
 
-*Please come prepared having done the readings/assignments listed on the [schedule]({{ site.baseurl }}/schedule/) prior to class.*
+_Please come prepared having done the readings/assignments listed on the [schedule]({{ site.baseurl }}/schedule/) prior to class._
 
 <br/>
 
@@ -33,10 +34,13 @@ This course is required for new (G1) Computer Science Ph.D. students. It satisfi
 **Laptops/Phones:** Laptop/tablet/phone use is acceptable when directly tied to classroom activities. We will occasionally have in-class activities that require access to a device. When not engaging in these activities (or active note-taking), please do not use your devices. If you need to quickly fact-check something, you may do so briefly, and then we ask you to stow your device. Some class periods such as student panels will be designated "no devices," even for note-taking.
 
 **Office Hours:**
-* Thomas: TBD
-* Hammad: TBD
 
-We'll use this [calendar](https://calendar.google.com/calendar/embed?src=c_68885743561380dbc5f80c567670e5e5b2657edd9bc6adeb0780b5ad08c176f1%40group.calendar.google.com&ctz=America%2FNew_York){:target="_blank"}{:rel="noopener noreferrer"} (below) for exceptions.
+- John: Mondays 3-4p, SEC 1.101-1
+- Madhu: Fridays 11a-12, SEC 3.434
+- Thomas: Wednesdays 9-10a
+- Hammad: Thursdays 1-2p
+
+We'll use this [calendar](https://calendar.google.com/calendar/embed?src=c_68885743561380dbc5f80c567670e5e5b2657edd9bc6adeb0780b5ad08c176f1%40group.calendar.google.com&ctz=America%2FNew_York){:target="\_blank"}{:rel="noopener noreferrer"} (below) for exceptions.
 In addition to the regularly held office hours, additional office hours with any member of the course staff can be made by appointment.
 
 <div class="calendar-embed">
@@ -44,6 +48,4 @@ In addition to the regularly held office hours, additional office hours with any
 </div>
 <br/>
 
-
 **Diversity, Inclusion and Belonging:** It is the mission of the teaching staff that students from all diverse backgrounds and perspectives be well served by this course, that students’ learning needs be addressed both in and out of class, and that the diversity that students bring to this class be viewed as a resource, strength and benefit. Your suggestions for how to better our classroom community are always encouraged and appreciated.
-
