@@ -37,8 +37,8 @@ This course is required for new (G1) Computer Science Ph.D. students. It satisfi
 
 - John: Mondays 3-4p, SEC 1.101-1
 - Madhu: Fridays 11a-12, SEC 3.434
-- Thomas: Wednesdays 9-10a
-- Hammad: Thursdays 1-2p
+- Thomas: Wednesdays 9-10a, SEC 1.316
+- Hammad: Thursdays 1-2p, SEC 1.316
 
 We'll use this [calendar](https://calendar.google.com/calendar/embed?src=c_68885743561380dbc5f80c567670e5e5b2657edd9bc6adeb0780b5ad08c176f1%40group.calendar.google.com&ctz=America%2FNew_York){:target="\_blank"}{:rel="noopener noreferrer"} (below) for exceptions.
 In addition to the regularly held office hours, additional office hours with any member of the course staff can be made by appointment.
